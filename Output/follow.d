@@ -41,5 +41,3 @@
 ..\output\follow.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\output\follow.o: ..\HARDWARE\ADC\adc.h
 ..\output\follow.o: ..\SYSTEM\usart\usart.h
-..\output\follow.o: ..\HARDWARE\TIMER\timer.h
-..\output\follow.o: ..\HARDWARE\LED\led.h
